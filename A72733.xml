@@ -1,0 +1,273 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An order of prayer and thankesgiuing, for the preseruation of her Maiestie and the realme, from the traiterous and bloodie practises of the Pope, and his adherents to be vsed at times appointed in the preface. Published by authoritie..</title>
+            <author>Church of England.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1586</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72733</idno>
+            <idno type="STC">STC 16517</idno>
+            <idno type="STC">ESTC S123414</idno>
+            <idno type="EEBO-CITATION">99898792</idno>
+            <idno type="PROQUEST">99898792</idno>
+            <idno type="VID">151987</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72733)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151987)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2010:6, 2340:3g)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An order of prayer and thankesgiuing, for the preseruation of her Maiestie and the realme, from the traiterous and bloodie practises of the Pope, and his adherents to be vsed at times appointed in the preface. Published by authoritie..</title>
+                  <author>Church of England.</author>
+                  <author>Dyson, Humphrey, d. 1633, former owner.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>by Christopher Barker, printer to the Queenes most excellent Maiestie.,</publisher>
+                  <pubPlace>Imprinted at London, :</pubPlace>
+                  <date>1586..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>Title vignette, initials, tailpieces.</note>
+                  <note>Former owner's autograph on t.p.: Hum: Dyson.</note>
+                  <note>Reproduction of originals in: Henry E. Huntington Library and Art Gallery (reel 2016:6) and British Library (reel 2340:3g).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Prayers and devotions --  Early works to 1800.</term>
+               <term>Psalms --  Paraphrases, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151987:1" rendition="simple:additions"/>
+            <pb facs="tcp:151987:1" rendition="simple:additions"/>
+            <p>An order of prayer and thankeſgiuing, for the pre<g ref="char:EOLhyphen"/>ſeruation of her Maieſtie and the Realme, from the traiterous and bloodie practi<g ref="char:EOLhyphen"/>ſes of the Pope, and his adherents: to be vſed at times appointed in the Preface.</p>
+            <q>
+               <bibl>Eccleſiaſtes 10.</bibl>
+               <p>¶ Wiſh the King no euill in thy thought, and ſpeake no hurt of the riche in thy priuie chamber: for the birdes of the ayre ſhall cary thy voyce, and with their feathers ſhall they bewray thy wordes.</p>
+            </q>
+            <q>
+               <bibl>Eodem.</bibl>
+               <p>¶ He that diggeth a pit, ſhall fall therein himſelfe, and who ſo breaketh downe the hedge, a ſerpent ſhall bite him.</p>
+            </q>
+            <q>
+               <bibl>Prouerbes 21.</bibl>
+               <p>¶ There is no wiſedome, there is no vnderſtanding, there is no counſell againſt the Lord.</p>
+               <p>The horſe is prepared for the day of battell: but the Lord giueth victorie.</p>
+            </q>
+            <p>Publiſhed by authoritie.</p>
+            <p>¶ Imprinted at London, by <hi>Chri<g ref="char:EOLhyphen"/>ſtopher Barker, Printer to the Queenes moſt excellent Maieſtie.</hi> 1586.</p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:151987:2"/>
+            <p>
+               <figure>
+                  <figDesc>royal blazon of Elizabeth I, surmounted by a crown and flanked by the English lion and the Welsh dragon</figDesc>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <q xml:lang="frm">DIEV ET MON DROIT</q>
+               </figure>
+            </p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:151987:2"/>
+            <head>
+               <g ref="char:leaf">❧</g> The Preface.</head>
+            <p>
+               <seg rend="decorInit">C</seg>Onſidering the great peace and quietneſſe, wherewith God hath continually bleſſed this Noble Realme of England, ſince the time that it pleaſed him by the hand of her Maieſtie to haue the ſincere trueth of the Goſpel of our Sauiour planted among vs, and his great bleſſings of all ſortes, wherewith he hath enriched vs, and giuen vs our heartes de<g ref="char:EOLhyphen"/>ſires to our comfort, and the admiration of our neighbours rounde about vs: It were too great impietie, not to ſhewe our ſelues dayly thanke<g ref="char:EOLhyphen"/>full for theſe great mercies, and not to craue the continuance of Gods holy hand ouer vs. But weighing further, with what perill of violent death, by meanes of wicked popiſh practiſes, our gracious ſoueraigne hath mainteined the trueth, which we profeſſe, vpon whoſe life (next vnder God) the profeſſion of the ſame in this land, and the continuance of the liues and welfare of vs her faithfull Subiects, doe depend: and knowing that the Almightie moſt miraculouſly hath pre<g ref="char:EOLhyphen"/>ſerued her highneſſe, from al treaſon hitherto in<g ref="char:EOLhyphen"/>tended againſt her moſt Royall perſon, and kept our blood from flowing in euery ſtreete like wa<g ref="char:EOLhyphen"/>ter, our Cities &amp; Houſes from ſacking, and the
+<pb facs="tcp:151987:3"/>whole Land from extreme ruine: with what zeale ought euery one of vs to be inflamed to prayſe the Lord, for the detecting and confuſion of our ſecrete foes, who<g ref="char:cmbAbbrStroke">̄</g> his right hand hath brui<g ref="char:EOLhyphen"/>ſed? and howe ought we to deteſt that doctrine which bringeth foorth ſo traiterous and bloodie fruites? <hi>Moſes</hi> and <hi>Miriam,</hi> and the whole hoſte of Iſrael had neuer greater cauſe to ſing vnto the Lorde for the ouerthrowe of <hi>Pharao</hi> and his ar<g ref="char:EOLhyphen"/>mie: nor <hi>Debora</hi> and <hi>Barac</hi> for the victorie of <hi>Si<g ref="char:EOLhyphen"/>ſera:</hi> nor <hi>Iudith,</hi> and the Citizens of <hi>Bethulia</hi> for the end of <hi>Holofernes</hi> and the flight of his hoſte, then we haue for the wonderfull preſeruation of the life of our moſt gracious <hi>Queene,</hi> and there<g ref="char:EOLhyphen"/>by for our owne ſafetie. Wherefore, let euery one that feareth the Lord among vs, not onely with the <hi>Iewes</hi> in the booke of <hi>Eſther</hi> yeerely holde a memoriall with great ioy of ſo notable deliuerance, but dayly in common aſſemblies haue this great goodneſſe in remembrance, and pray that God will not ſuffer the light of <hi>Iſrael</hi> to be quenched, but that it will ſtill pleaſe him to preſerue his annoynted from the perill of the ſworde, and to giue her long and happie dayes, to the glorie of his Name, to the comfort of his choſen, &amp; to the ſtabliſhing of his trueth in this Lande, till the comming of his Sonne in the cloudes of Heauen. That this may the better be accompliſhed, this litle booke is by authoritie publiſhed, dayly to be vſed in <hi>Common prayer,</hi> where any is, or otherwiſe at ſuch times as are by
+<pb facs="tcp:151987:3"/>lawe appointed for <hi>Diuine Seruice: viz,</hi> the Pray<g ref="char:EOLhyphen"/>er, and one or two of the <hi>Pſalmes</hi> following, ac<g ref="char:EOLhyphen"/>cording to the diſcretion of the Miniſter, and likewiſe to be adioyned vnto thoſe prayers, that are alreadie of late ſet foorth, for turning from vs the ſcarſitie of victuall, and warre, at ſuch times as they are appointed to be read in the Church.</p>
+            <trailer type="illustration">
+               <figure>
+                  <figDesc>decorative device whose focal point is a Tudor rose</figDesc>
+               </figure>
+            </trailer>
+         </div>
+      </front>
+      <body>
+         <div type="prayer">
+            <pb facs="tcp:151987:4"/>
+            <head>
+               <g ref="char:leaf">❧</g> The prayer.</head>
+            <p>
+               <seg rend="decorInit">O</seg> Eternall God and merci<g ref="char:EOLhyphen"/>full Father, we thy vir<g ref="char:EOLhyphen"/>worthie creatures moſt humbly doe confeſſe, that we are not able with our tongues to vtter, nor in our heartes to conceiue, the exceeding meaſure of thine infinite goodneſſe in this latter age ſhewed to this Noble Realme, in that thou (O Lord) haſt in moſt dangerous times, by thy prouidence, beyond expectation of man, preſerued y<hi rend="sup">e</hi> Noble perſon of our now Soue<g ref="char:EOLhyphen"/>raigne Lady Elizabeth, by thy grace: Firſt, according to her right to come to this king<g ref="char:EOLhyphen"/>dome and Royall ſeate of her Noble Father, and next, by her (being therein eſtabliſhed) to deliuer vs thy people, that were as captiues to Babylon, out of thraldome of y<hi rend="sup">e</hi> enemies of thy true Church, and to reſtore vs agayne to the free fruition of y<hi rend="sup">e</hi> Goſpel of thy Sonne our Sauiour Chriſt. For y<hi rend="sup">e</hi> enioying where<g ref="char:EOLhyphen"/>of now many yeeres, we doe confeſſe and ac<g ref="char:EOLhyphen"/>knowledge, that when wee by our daily vn<g ref="char:EOLhyphen"/>thankefulneſſe, and by our ſinful liues, haue moſt iuſtly prouoked thee to withdrawe theſe thy fauours from vs, thou (O Lorde) with thy mightie power diddeſt ſtrengthen thy ſeruant our moſt gracious Queene, con<g ref="char:EOLhyphen"/>ſtantly
+<pb facs="tcp:151987:4"/>againſt the threatnings of the grea<g ref="char:EOLhyphen"/>teſt of the world to perſiſt, in maintenance of vs in all maner of proſperitie, peace and wealth: But moſt ſingularly in a peaceable freedome, to enioy the bleſſed benefites of thy holy worde againſt the mightie enemies of thy Church daily conſpiring againſt this Realme, and eſpecially againſt the Royall perſon of our gracious Queene, thy humble ſeruant and true handmayden, whoſe eſtate being in the opinion of a nomber of wicked perſons many times in great and ſecret dan<g ref="char:EOLhyphen"/>gers, yet thou (O Lorde) of thy heauenly goodneſſe haſt alwayes preſerued and defen<g ref="char:EOLhyphen"/>ded her by many miraculous meanes, and (as we haue good cauſe to thinke) by many other meanes, and at many other times, then to vs are yet knowen. But yet, beſides thy preſeruation of her perſon from the at<g ref="char:EOLhyphen"/>tempt of two wicked perſons, that ſuffered for the ſame of late yeeres, euen nowe in this preſent time, whe<g ref="char:cmbAbbrStroke">̄</g> we had no thought, y<hi rend="sup">t</hi> any woulde haue minded ſuch a wicked fact, we haue fully felt the power of thy miraculous goodneſſe, by the diſcouerie of ſundry wicked Conſpirators, very ſecretly bent and comby<g ref="char:EOLhyphen"/>ned to make deſperate attempts againſt her life, and againſt the peaceable eſtate of thy Church and this Realme. The ſtay whereof onely hath proceeded (good Lord) by thy moſt continual, tender and fatherly care ouer her,
+<pb facs="tcp:151987:5"/>in the ſtrange diſcouering, and the maner of apprehending of the malefactors, being ma<g ref="char:EOLhyphen"/>ny, and not by the wit or ſtrength of any worldly creature. For otherwiſe then by thy ſpeciall goodneſſe, we do nowe perceiue, and that with trembling of our hearts, that ſhee could not at ſundry times haue eſcaped the danger of violent death, wickedly and reſo<g ref="char:EOLhyphen"/>lutely againſt her intended, ſo that wee may truely ſay with <hi>Dauid</hi> in his Pſalme, <hi>That all men that ſee it, ſhal ſay, This hath God done: for they ſhall perceiue, that it is his worke.</hi> Where<g ref="char:EOLhyphen"/>fore we now thy humble creatures, acknow<g ref="char:EOLhyphen"/>ledging our vnworthineſſe of theſe great graces, beſeech thee (O Lord) that thou wilt without regard of our former vnthankful<g ref="char:EOLhyphen"/>neſſe, and contempt of thy worde, ſhewe thy mercie to vs, and continue thy bleſſings ouer vs, that we may, for theſe ſo vnſpeakeable be<g ref="char:EOLhyphen"/>nefites, be more thankefull then wee haue bene, not onely in wordes, or as hearers, but in deedes alſo, as doers of thy will, according to the direction of thy holy word. And that it would pleaſe thee ſtil to holde this thy bleſ<g ref="char:EOLhyphen"/>ſed hand ouer our <hi>Queene Elizabeth,</hi> and pre<g ref="char:EOLhyphen"/>ſerue her <hi>Royall</hi> perſon from all maner of o<g ref="char:EOLhyphen"/>pen or ſecrete perils, whereby her yeeres may be prolonged, as farre as it may pleaſe thee to graunt, by the courſe of <hi>Nature,</hi> for the main<g ref="char:EOLhyphen"/>tenance of thy glory, and of thy ſonne <hi>Ieſus Chriſt,</hi> and of his <hi>Goſpel,</hi> and for continuance
+<pb facs="tcp:151987:5"/>of vs thy people her naturall ſubiects in the due feare and ſeruice of thee, and in our na<g ref="char:EOLhyphen"/>turall obedience to her, whereby we and our poſteritie may ſtill inioy ſuch peace, as wee haue had theſe many yeeres, vnder her Ma<g ref="char:EOLhyphen"/>ieſties gouernement, farre aboue any like ex<g ref="char:EOLhyphen"/>ample in any age by paſt. Grant this (O hea<g ref="char:EOLhyphen"/>uenly Father) for <hi>Ieſus Chriſtes</hi> ſake, thy onely ſonne our Sauiour, to whome with thee and the holy Ghoſt be all honour and glorie, worlde without end. Amen.</p>
+         </div>
+         <div n="1" type="Psalm">
+            <head>The firſt Pſalme.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Ee reioyce in thy ſtrength,<note place="margin">Pſal. 21.</note> (O Lorde:) exceeding glad are we of thy ſaluation.</p>
+            <p>Thou haſt giuen vs our hearts deſire: and haſt not denyed the requeſt of our lippes.</p>
+            <p>Thou haſt preuented vs with the bleſ<g ref="char:EOLhyphen"/>ſings of goodneſſe: and haſt made vs glad with the ioy of thy countenance.</p>
+            <p>For the vngodly had drawen out the ſworde, and had bended their bowe:<note place="margin">Pſal. 37.</note> to caſt downe the poore and needie, and to ſlay ſuch
+<pb facs="tcp:151987:6"/>as be of a right conuerſation.</p>
+            <p>Their ſword ſhall goe through their owne heart: and their bow ſhall be broken.</p>
+            <p>All thine enemies ſhall feele thine hand:<note place="margin">Pſal. 22.</note> thy right hand ſhall finde out them that hate thee.</p>
+            <p>Thou ſhalt make them like a fierie Ouen in the time of thy wrath: the Lorde ſhall de<g ref="char:EOLhyphen"/>ſtroy them in his diſpleaſure, and the fire ſhal conſume them.</p>
+            <p>Their fruite ſhalt thou roote out of the earth: and their ſeede from among the chil<g ref="char:EOLhyphen"/>dren of men.</p>
+            <p>For they intended miſchiefe againſt thee: and imagined ſuch a deuice, as they are not able to perfourme.</p>
+            <p>Therefore haſt thou put them to flight: and the ſtrings of thy bowe haſt thou made readie againſt the face of them.</p>
+            <p>Thy mercy (O Lorde) reacheth vnto the heauens:<note place="margin">Pſal. 36.</note> and thy faithfulneſſe vnto the cloudes.</p>
+            <p>Thy righteouſnes ſtandeth like the ſtrong mountaines: and thy iudgements are like the great deepe.</p>
+            <p>Thou Lord doeſt ſaue both man and beaſt: how excellent is thy mercie, O Lord? and the children of men ſhal put their truſt vnder the ſhadow of thy wings.</p>
+            <p>O continue forth thy louing kindneſſe vn<g ref="char:EOLhyphen"/>to them that knowe thee: and thy righteouſ<g ref="char:EOLhyphen"/>neſſe
+<pb facs="tcp:151987:6"/>vnto them that are true of heart.</p>
+            <p>O let not the foote of pride come againſt vs: and let not the hand of the vngodly caſt vs downe.</p>
+            <p>Withdrawe not thou thy iuercie from vs, O Lorde: let thy louing kindeneſſe and thy trueth alway preſerue vs.</p>
+            <p>But let the vngodly periſh, let thine ene<g ref="char:EOLhyphen"/>mies conſume as the fat of lambes: yea, euen as the ſmoke let them conſume away.</p>
+            <p>So wee that bee thy people, and ſheepe of thy paſture ſhall giue thee thankes for euer:<note place="margin">Pſal. 79.</note> and will alway bee ſhewing forth thy prayſe from generation to generation.</p>
+         </div>
+         <div n="2" type="Psalm">
+            <head>The ſecond Pſalme.</head>
+            <p>
+               <seg rend="decorInit">D</seg>Eliuer vs, O Lorde,<note place="margin">Pſal. 14.</note> from the euill men: and preſerue vs from the wicked men.</p>
+            <p>Which imagine miſchiefe in their hearts: and ſtirre vp ſtrife all the day long.</p>
+            <p>The proud haue layed a ſnare for vs, and ſpred a net abroade with cordes: yea, and ſet trappes in our wayes.</p>
+            <p>They courage themſelues in miſchiefe:<note place="margin">Pſal. 6a.</note> &amp; common among themſelues, how they may lay ſnares, and they ſay no man ſhal ſee them.</p>
+            <p>They imagine wickedneſſe and practiſe it:
+<pb facs="tcp:151987:7"/>that they keepe ſecret among themſelues, e<g ref="char:EOLhyphen"/>uery man in the deepe of his heart.</p>
+            <p>But let not the vngodly haue their deſire,<note place="margin">Pſal. 140.</note> O Lord: let not their miſchieuous imagina<g ref="char:EOLhyphen"/>tions proſper, leaſt they be too proude.</p>
+            <p>Thou, O Lorde, ſhalt ſoddenly ſhoote at them with a ſwift arrowe: that they ſhall be wounded</p>
+            <p>And all men that ſee it, ſhall ſay, <hi>This hath God done:</hi> for they ſhall perceiue, that it is his worke.</p>
+            <p>Prayſed be the Lorde dayly,<note place="margin">Pſal. 68.</note> euen the God that helpeth vs: and powreth his benefites vpon vs.</p>
+            <p>Hee is our God, euen the God of whome co<g ref="char:cmbAbbrStroke">̄</g>meth <hi>Saluation:</hi> God is the Lord by whom we eſcape death.</p>
+            <p>He hath giuen victorie vnto vs:<note place="margin">Pſal. 144.</note> and hath deliuered <hi>Dauid</hi> his ſeruant from the perill of the ſword.</p>
+            <p>O that men woulde therefore prayſe the Lord for his goodneſſe:<note place="margin">Pſal. 107.</note> and declare the won<g ref="char:EOLhyphen"/>ders that he doth for the children of men.</p>
+            <p>That they would exalt him in the congre<g ref="char:EOLhyphen"/>gation of the people: and prayſe him in the ſeate of the Elders.</p>
+            <p>That they would offer vnto him the ſacri<g ref="char:EOLhyphen"/>fice of thankeſgiuing: and tell out his works with gladneſſe.</p>
+            <p>Then ſhall our ſonnes growe vp as the yong plants: and our daughters be as the
+<pb facs="tcp:151987:7"/>poliſhed corners of the Temple.</p>
+            <p>Our garners ſhall bee full and plenteous with all maner of ſtore: our ſheepe ſhal bring forth thouſandes, and tenne thouſandes in our ſtreetes.</p>
+            <p>Our Oxen ſhall be ſtrong to labour, there ſhall be no decay: no leading into captiuitie, and no complaining in our ſtreetes.</p>
+            <p>Happy are the people that be in ſuch a caſe: yea bleſſed are the people, that haue the Lord for their God.</p>
+         </div>
+         <div n="3" type="Psalm">
+            <head>The third Pſalme.</head>
+            <p>
+               <seg rend="decorInit">W</seg>E will magnifie thee,<note place="margin">Pſal. 145.</note> O God our King: and will prayſe thy Name for euer and euer.</p>
+            <p>Euery day will wee giue thankes vnto thee: and prayſe thy name foreuer and euer.</p>
+            <p>Great is the Lorde, and marueilous wor<g ref="char:EOLhyphen"/>thy to be prayſed: there is no end of his great<g ref="char:EOLhyphen"/>neſſe.</p>
+            <p>One generation ſhall prayſe thy workes vnto another: and declare thy power.</p>
+            <p>The memoriall of thine aboundant kind<g ref="char:EOLhyphen"/>neſſe ſhall be ſhewed: and men ſhall ſing of thy righteouſneſſe.</p>
+            <p>The Lord is righteous in all his wayes: and holy in all his workes.</p>
+            <p>
+               <pb facs="tcp:151987:8"/>
+The Lorde is night vnto all that call vpon him: yea, all ſuch as call vpon him faithfully.</p>
+            <p>He will fulfill the deſire of them that feare him: hee alſo will heare their crye, and will helpe them.</p>
+            <p>The Lorde preſerueth all them that loue him: but ſcattereth abroad all the vngodly.</p>
+            <p>Though wee walke in the middeſt of trou<g ref="char:EOLhyphen"/>ble,<note place="margin">Pſal. 138.</note> yet ſhall he refreſh vs: hee ſhall ſtretche foorth his hand vpon the furiouſneſſe of our enemies, and his right hand ſhall ſaue vs.</p>
+            <p>The ſnares of death compaſſed vs round about:<note place="margin">Pſal. 116.</note> &amp; the paynes of hel gate hold vpon vs.</p>
+            <p>But thou Lord, haſt deliuered our ſoules from death: our eyes from teares, and our feete from falling.</p>
+            <p>Thou haſt turned our heauineſſe into ioy:<note place="margin">Pſal. 30.</note> thou haſt put off our ſackcloth, and girded vs with gladneſſe.</p>
+            <p>Therefore ſhall euery good man ſing of thy praiſe without ceaſſing: O God, we wil giue thankes vnto thee for euer.</p>
+         </div>
+         <div n="4" type="Psalm">
+            <head>The fourth Pſalme.</head>
+            <p>
+               <seg rend="decorInit">O</seg> Giue thanks vnto the Lord, for he is gracious:<note place="margin">Pſal. 106.</note> and his mercie endureth for euer.</p>
+            <p>Who can expreſſe the noble actes of the Lord: or ſhew forth all his prayſe?</p>
+            <p>
+               <pb facs="tcp:151987:8"/>
+For wee haue ſinned with our Fathers: we haue done amiſſe and dealt wickedly.</p>
+            <p>We haue not regarded thy wonders, nor kept thy great goodneſſe in remembrance: but haue bene diſobedient to thy holy will.</p>
+            <p>Neuertheleſſe, hee hath holpen vs for his names ſake: that he might make his power to be knowen.</p>
+            <p>For loe, the vngodly had bent their bowe,<note place="margin">Pſal. 11.</note> and made ready their arrowes within the quiuer: that they might priuily ſhoote at vs.</p>
+            <p>Many Oxen purpoſed to haue come about vs:<note place="margin">Pſal. 22.</note> fat <hi>Bulles</hi> of <hi>Baſan</hi> intended to cloſe vs in on euery ſide.</p>
+            <p>They gaped vpon vs with their mouthes: as it were ramping and roaring Lions.</p>
+            <p>The counſell of the wicked layd ſiege a<g ref="char:EOLhyphen"/>gainſt vs: they ſet trappes in our wayes.</p>
+            <p>They had priuily layd their net to deſtroy vs without a cauſe: yea,<note place="margin">Pſal. 35.</note> euen without a cauſe had they made a pit for our ſoule.</p>
+            <p>But thou (O Lorde) haſt deliuered our ſoule from the ſworde:<note place="margin">Pſal. 22.</note> thy darling from the power of the dogge.</p>
+            <p>Thou haſt ſaued vs from y<hi rend="sup">e</hi> Lions mouth: thou haſt heard vs from amongſt the hornes of the <hi>Vnicornes.</hi>
+            </p>
+            <p>A ſodaine deſtruction is come vpon them vnawares,<note place="margin">Pſal. 35.</note> and the net that they had layde priuily, hath catched themſelues: they are fallen into their our owne miſchiefe.</p>
+            <p>
+               <pb facs="tcp:151987:9"/>
+They are confounded and put to ſhame, that did ſeeke after our ſoule: they are turned backe &amp; put to confuſion that imagined miſ<g ref="char:EOLhyphen"/>chiefe for vs.</p>
+            <p>Wherefore prayſe the Lorde,<note place="margin">Pſal. 22.</note> yee that feare him: magnifie him al ye of the ſeede of <hi>Iacob,</hi> and feare him all ye of the ſeede of <hi>Iſrael.</hi>
+            </p>
+            <p>For he hath not deſpiſed, nor abhorred the lowe eſtate of the poore: hee hath not hid his face from him, but when we called vnto him, he heard vs.</p>
+            <p>Therefore our prayſe is of thee in the great <hi>Congregation:</hi> our vowes will we performe in the ſight of them that feare him.</p>
+            <p>Glory be to the Father, to the ſonne &amp;c.</p>
+            <p>
+               <g ref="char:leaf">❧</g> 
+               <hi>Hereunto alſo may be added at the diſcreti<g ref="char:EOLhyphen"/>on of the Miniſter the lxxxiii. the Ciii. and the Cxxiiii. Pſalmes. And for the firſt Leſſon, when he ſhall ſee occaſion, he may reade one of theſe Chapters: Viz. Exod. xv. Iudg. v. Eſther. vi. vii. viii. and ix.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
